@@ -5,16 +5,20 @@
 <br>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/rk2105/" target="_blank">
-    <img src="https://img.shields.io/badge/💼_LinkedIn_Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://ranjithkumarr2105.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Explore_Portfolio-1A1A1A?style=for-the-badge&logo=googlechrome&logoColor=00E676" alt="Portfolio"/>
-  </a>
+  <h2>
+    <a href="https://www.linkedin.com/in/rk2105/" style="text-decoration: none;">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="35" align="center" alt="LinkedIn Logo"/>
+      <b> Let's Connect on LinkedIn</b>
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://ranjithkumarr2105.github.io/" style="text-decoration: none;">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/e/e1/Google_Chrome_icon_%28February_2022%29.svg" width="35" align="center" alt="Portfolio Logo"/>
+      <b> Explore Premium Portfolio</b>
+    </a>
+  </h2>
 </div>
 
-<br><br>
+<br>
 
 ### 🎯 Current Status & Objective
 I am a final-year **B.E. Computer Science student at SIMATS (2022–2026)**. I have a proven track record of successfully delivering full-stack freelance projects to clients and am currently looking for my next big opportunity.
@@ -89,7 +93,11 @@ I specialize in engineering end-to-end, Android-exclusive mobile ecosystems, tra
 ### 📊 GitHub Activity & Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ranjithkumarr2105&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="165" alt="GitHub Stats" />
+  <a href="https://github.com/ranjithkumarr2105">
+    <img src="https://streak-stats.demolab.com?user=ranjithkumarr2105&theme=tokyonight&hide_border=true" height="170" alt="GitHub Streak" />
+  </a>
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranjithkumarr2105&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
+  <a href="https://github.com/ranjithkumarr2105">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranjithkumarr2105&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Languages" />
+  </a>
 </div>
