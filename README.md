@@ -2,17 +2,19 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Ranjithkumar%20R&fontSize=60&animation=fadeIn&fontAlignY=38&desc=B.E.%20Computer%20Science%20Engineering%20%7C%20Freelance%20Developer&descAlignY=55&descAlign=50" width="100%" />
 </div>
 
+<br>
+
 <div align="center">
-  <a href="https://www.linkedin.com/in/rk2105/">
-    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/rk2105/" target="_blank">
+    <img src="https://img.shields.io/badge/💼_LinkedIn_Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  &nbsp;&nbsp;
-  <a href="https://ranjithkumarr2105.github.io/">
-    <img src="https://img.shields.io/badge/View_Premium_Portfolio-151515?style=for-the-badge&logo=googlechrome&logoColor=3DDC84" alt="Portfolio"/>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://ranjithkumarr2105.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Explore_Portfolio-1A1A1A?style=for-the-badge&logo=googlechrome&logoColor=00E676" alt="Portfolio"/>
   </a>
 </div>
 
-<br>
+<br><br>
 
 ### 🎯 Current Status & Objective
 I am a final-year **B.E. Computer Science student at SIMATS (2022–2026)**. I have a proven track record of successfully delivering full-stack freelance projects to clients and am currently looking for my next big opportunity.
@@ -87,8 +89,7 @@ I specialize in engineering end-to-end, Android-exclusive mobile ecosystems, tra
 ### 📊 GitHub Activity & Analytics
 
 <div align="center">
-  
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ranjithkumarr2105&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/ranjithkumarr2105)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ranjithkumarr2105&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/ranjithkumarr2105)
-
+  <img src="https://github-readme-stats.vercel.app/api?username=ranjithkumarr2105&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="165" alt="GitHub Stats" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranjithkumarr2105&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
 </div>
