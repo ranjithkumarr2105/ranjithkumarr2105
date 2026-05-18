@@ -95,9 +95,4 @@ I specialize in engineering end-to-end, Android-exclusive mobile ecosystems, tra
 <div align="center">
   <a href="https://github.com/ranjithkumarr2105">
     <img src="https://streak-stats.demolab.com?user=ranjithkumarr2105&amp;theme=tokyonight&amp;hide_border=true" height="170" alt="GitHub Streak" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/ranjithkumarr2105">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ranjithkumarr2105&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" height="170" alt="Top Languages" />
-  </a>
 </div>
