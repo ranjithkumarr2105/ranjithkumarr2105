@@ -1,8 +1,7 @@
 <div align="center">
 
-<a href="https://github.com/ranjithkumarr2105">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=3DDC84&center=true&vCenter=true&width=800&lines=Hi+there,+I'm+Ranjithkumar+R+👋;B.E.+CSE+Senior+&+Freelancer;Seeking+Full-Time+Roles;Available+for+Freelance+Projects" alt="Typing SVG" />
-</a>
+# Hi there, I'm Ranjithkumar R 👋
+### B.E Computer Science Engineering & Freelance Developer
 
 <a href="https://www.linkedin.com/in/rk2105/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&scale=1.2" alt="LinkedIn"/></a>
 <a href="https://ranjithkumarr2105.github.io/"><img src="https://img.shields.io/badge/Premium_Portfolio-101010?style=for-the-badge&logo=googlechrome&logoColor=3DDC84&scale=1.2" alt="Portfolio"/></a>
@@ -84,6 +83,6 @@ I specialize in engineering end-to-end, Android-exclusive mobile ecosystems, tra
 ### 📊 GitHub Activity & Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ranjithkumarr2105&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranjithkumarr2105&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ranjithkumarr2105&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranjithkumarr2105&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
