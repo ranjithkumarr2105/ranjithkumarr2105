@@ -1,11 +1,15 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Ranjithkumar%20R&fontSize=60&animation=fadeIn&fontAlignY=38&desc=B.E.%20Computer%20Science%20Engineering%20%7C%20Freelance%20Developer&descAlignY=55&descAlign=50" width="100%" />
+</div>
 
-# Hi there, I'm Ranjithkumar R 👋
-### B.E Computer Science Engineering & Freelance Developer
-
-<a href="https://www.linkedin.com/in/rk2105/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&scale=1.2" alt="LinkedIn"/></a>
-<a href="https://ranjithkumarr2105.github.io/"><img src="https://img.shields.io/badge/Premium_Portfolio-101010?style=for-the-badge&logo=googlechrome&logoColor=3DDC84&scale=1.2" alt="Portfolio"/></a>
-
+<div align="center">
+  <a href="https://www.linkedin.com/in/rk2105/">
+    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://ranjithkumarr2105.github.io/">
+    <img src="https://img.shields.io/badge/View_Premium_Portfolio-151515?style=for-the-badge&logo=googlechrome&logoColor=3DDC84" alt="Portfolio"/>
+  </a>
 </div>
 
 <br>
@@ -83,6 +87,8 @@ I specialize in engineering end-to-end, Android-exclusive mobile ecosystems, tra
 ### 📊 GitHub Activity & Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ranjithkumarr2105&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranjithkumarr2105&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ranjithkumarr2105&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/ranjithkumarr2105)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ranjithkumarr2105&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/ranjithkumarr2105)
+
 </div>
