@@ -98,6 +98,6 @@ I specialize in engineering end-to-end, Android-exclusive mobile ecosystems, tra
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/ranjithkumarr2105">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ranjithkumarr2105&layout=compact&theme=tokyonight&hide_border=true&v=1" height="170" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranjithkumarr2105&layout=compact&theme=tokyonight&hide_border=true&custom_title=Top%20Languages&cache_seconds=1" height="170" alt="Top Languages" />
   </a>
 </div>
