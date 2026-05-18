@@ -1,71 +1,89 @@
 <div align="center">
-  
-# Hello, I'm Ranjithkumar R 👋
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3DDC84&center=true&vCenter=true&width=600&lines=B.E.+Computer+Science+Senior;Freelance+Android+Developer;Full-Stack+Problem+Solver" alt="Typing SVG" /></a>
-
-**Crafting clean, functional, and scalable Android-exclusive applications.**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rk2105/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge&logo=google-chrome)](https://ranjithkumarr2105.github.io/)
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Ranjithkumar%20R&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Freelance%20Android%20Developer%20%7C%20Full-Stack%20Engineer&descAlignY=55&descAlign=50" width="100%"/>
 </div>
 
----
+<div align="center">
+  <a href="https://www.linkedin.com/in/rk2105/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://ranjithkumarr2105.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Premium_Portfolio-101010?style=for-the-badge&logo=googlechrome&logoColor=3DDC84" alt="Portfolio" />
+  </a>
+</div>
 
-### 👨‍💻 About Me
-
-I am a final-year B.E. Computer Science student at SIMATS (2022–2026) and a freelance developer who partners with clients to build robust mobile ecosystems. I manage the entire software lifecycle—from UI/UX prototyping in Figma to writing crash-resistant Java code and deploying secure PHP/MySQL backends. I thrive on translating complex business logic into seamless, intuitive user experiences.
-
----
-
-### 🛠️ Tech Stack & Tools
-
-**Mobile & Frontend Development**
 <br>
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![XML](https://img.shields.io/badge/XML-FF6600.svg?style=for-the-badge&logo=xml&logoColor=white)
 
-**Backend, Database & Networking**
+<table align="center" width="100%">
+  <tr>
+    <td width="55%" valign="top">
+      <h3>⚡ About Me</h3>
+      <p>I am a final-year B.E. Computer Science student at <b>SIMATS</b> (2022–2026) and a freelance developer. I specialize in engineering end-to-end, Android-exclusive mobile ecosystems, transforming complex business logic into seamless user experiences.</p>
+      <br>
+      <b>Focus Areas:</b>
+      <ul>
+        <li>📱 Translating Figma prototypes into scalable <b>Java/Kotlin</b> applications.</li>
+        <li>⚙️ Architecting secure <b>PHP & Flask REST APIs</b>.</li>
+        <li>📊 Database design and revenue-tracking analytics.</li>
+      </ul>
+    </td>
+    <td width="45%" valign="top" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=ranjithkumarr2105&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="100%" />
+    </td>
+  </tr>
+</table>
+
 <br>
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-005C84?style=for-the-badge&logo=databricks&logoColor=white)
 
-**Design, Web & Data Analytics**
+<h3 align="center">🛠️ Technical Arsenal</h3>
+<div align="center">
+  <code><img height="35" src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio"></code>
+  <code><img height="35" src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"></code>
+  <code><img height="35" src="https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"></code>
+  <code><img height="35" src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP"></code>
+  <code><img height="35" src="https://img.shields.io/badge/Flask-000000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"></code>
+  <code><img height="35" src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"></code>
+  <br><br>
+  <code><img height="35" src="https://img.shields.io/badge/REST%20API-005C84?style=for-the-badge&logo=databricks&logoColor=white" alt="REST API"></code>
+  <code><img height="35" src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"></code>
+  <code><img height="35" src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"></code>
+  <code><img height="35" src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" alt="GSAP"></code>
+</div>
+
 <br>
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 
----
+<h3>🚀 Featured Engineering & Freelance Work</h3>
 
-### 🚀 Featured Work
+<table width="100%">
+  <tr>
+    <td width="100%">
+      <h4>🏆 Stall Spot | <i>Campus Food Ordering & Management System</i></h4>
+      <p>A comprehensive, role-based Android application engineered to digitize university cafeteria workflows.</p>
+      <ul>
+        <li><b>Architecture:</b> Smart ordering modes (Dine-in/Pre-parcel), live tracking, and digital wallet integration.</li>
+        <li><b>Business Logic:</b> Implemented dynamic automated wage estimations and revenue analytics.</li>
+        <li><b>Tech Stack:</b> Java, Android SDK, Retrofit, Razorpay Integration, PHP, MySQL.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-#### 🏆 Stall Spot (Campus Food Ordering & Management System)
-A comprehensive, role-based Android application engineered to digitize university cafeteria workflows.
-*   **Features:** Smart ordering modes (Dine-in/Pre-parcel), live order tracking, and a built-in digital wallet.
-*   **Business Logic:** Implemented dynamic automated wage estimations and revenue analytics for stall owners.
-*   **Tech:** Java, Android SDK, Retrofit, Razorpay Integration, PHP, MySQL.
+<table width="100%">
+  <tr>
+    <td width="100%">
+      <h4>💼 Confidential Client Solutions | <i>Freelance Mobile Architect</i></h4>
+      <p>Successfully delivered multiple Android-exclusive applications tailored to specific client industry needs.</p>
+      <ul>
+        <li><b>AI Agricultural Assistant:</b> Integrated a Flask backend to deliver crop disease prediction models and implemented localized Tamil voice assistance for rural accessibility.</li>
+        <li><b>Travel Itinerary Planner:</b> Architected a robust scheduling application featuring complex routing logic, itinerary management, and seamless UI transitions.</li>
+        <li><b>Health & Nutrition Tracker:</b> Built a wellness platform equipped with neural scanning capabilities for food recognition and real-time nutritional data synchronization.</li>
+        <li><b>Custom Dining Application:</b> Engineered a specialized digital dining platform that streamlines menu navigation, table management, and order processing for an enhanced restaurant experience.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-#### 💼 Freelance Client Solutions (Android-Exclusive)
-*   **AI-Powered Agricultural Assistant:** Integrated a Flask backend to deliver crop disease prediction and implemented localized Tamil voice assistance to enhance accessibility for rural users.
-*   **Travel Itinerary Planner:** Architected a robust travel scheduling application featuring complex logic for routing, itinerary management, and seamless UI transitions.
-*   **Health & Nutrition Tracker:** Built a wellness platform equipped with neural scanning capabilities for food recognition and real-time nutritional data synchronization.
-*   **Custom Dining Application:** Engineered a specialized digital dining platform that streamlines menu navigation, table management, and order processing for an enhanced restaurant experience.
-
----
+<br>
 
 <div align="center">
-  
-### 📊 GitHub Activity
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=ranjithkumarr2105&theme=radical&hide_border=true)](https://git.io/streak-stats)
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranjithkumarr2105&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
 </div>
