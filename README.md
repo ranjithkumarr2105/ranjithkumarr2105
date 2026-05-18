@@ -13,7 +13,7 @@
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://ranjithkumarr2105.github.io/" style="text-decoration: none;">
       <img src="https://upload.wikimedia.org/wikipedia/commons/e/e1/Google_Chrome_icon_%28February_2022%29.svg" width="35" align="center" alt="Portfolio Logo"/>
-      <b> Explore Premium Portfolio</b>
+      <b> Explore Portfolio</b>
     </a>
   </h2>
 </div>
