@@ -55,6 +55,14 @@ I specialize in engineering end-to-end, Android-exclusive mobile ecosystems, tra
 
 ---
 
+### 💼 Professional Experience
+
+**Intern - Data Analytics | CodeFluxz (Remote)** *July 2025 - Sep 2025*
+* Collaborated with a 5-member team to analyze 3+ real-world industry datasets, identifying key trends for client solutions.
+* Processed and cleaned 1,000+ data points, ensuring 100% data accuracy for 4 comprehensive project reports ahead of schedule.
+
+---
+
 ### 🚀 Featured Engineering & Freelance Work
 
 <table>
@@ -90,9 +98,29 @@ I specialize in engineering end-to-end, Android-exclusive mobile ecosystems, tra
 
 ---
 
+### 🔬 Research & Presentations
+
+**AI-Driven AR Indoor Navigation Algorithm | Tech Star Summit 2025**
+* Analyzed shortest-path algorithms (A* Algorithm against Dijkstra and RRT) for Real-Time AR Indoor Navigation.
+* Concluded that A* offered the highest stability (97.25% accuracy) for resource-constrained mobile systems.
+
+**Speech-to-Text Accuracy Research (AI) | Star Summit 2024**
+* Authored a research paper comparing Deep Neural Networks (DNN) vs CNN and GMM architectures.
+* Proven DNN's superior accuracy (98.33%) compared to CNN (86.54%) using statistical t-tests on standard datasets.
+
+---
+
+### 📜 Certifications
+
+* **Oracle Database SQL Certified Specialist** (July 2025) – Verified skills in Complex SQL, Subqueries, and DDL/DML.
+* **Ericsson Educate: 21st Century Technologies** (Dec 2025) – Training on 5G, IoT, and AI.
+
+---
+
 ### 📊 GitHub Activity & Analytics
 
 <div align="center">
   <a href="https://github.com/ranjithkumarr2105">
     <img src="https://streak-stats.demolab.com?user=ranjithkumarr2105&amp;theme=tokyonight&amp;hide_border=true" height="170" alt="GitHub Streak" />
+  </a>
 </div>
